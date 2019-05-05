@@ -1,0 +1,11 @@
+.stars img {
+  width: 20px;
+  height: 20px;
+  margin: 2px;
+  transition: all 0.2s ease-in-out;
+}
+
+.stars img:hover {
+  cursor: pointer;
+  transform: scale(1.4);
+}
