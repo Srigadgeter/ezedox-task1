@@ -8,8 +8,10 @@
 :---: | :---:
 <img src="pictures/image1.png" width="320" height="500" /> | <img src="pictures/image2.png" width="320" height="500" /> 
 
-## DEMO
+## DEMO VIDEO
+[Video](https://drive.google.com/open?id=1LUXWsCa_r7czRjWedP2ecWXy8MCv0507)
 
+## WORK IT IN ONLINE ...
 [CodeSandbox - Rating Cards](https://codesandbox.io/s/mzj195v3qj)
 
 ## WORK IT IN LOCAL ...
